@@ -21,7 +21,13 @@ function App() {
             <div className="container-login-form-btn">
               <button className="login-form-btn">Login</button>
             </div>
-           
+            <div className="text-center">
+              <span className="text1">Não possui conta?</span>
+
+              <a className="text2" href="#">Criar a conta.</a>
+              
+
+             </div>
 
          </form>
        </div>
